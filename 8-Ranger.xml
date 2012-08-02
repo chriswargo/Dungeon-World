@@ -87,7 +87,7 @@
 <h3 aid:pstyle="MoveName">Familiar Prey</h3>
 <p aid:pstyle="NoIndent">When you Spout Lore about a monster you use Wis instead of Int.</p>
 <h3 aid:pstyle="MoveName">Dual Wield</h3>
-<p aid:pstyle="NoIndent">When strike an enemy with two weapons at once, add an extra 1d4 damage for your off-hand strike.</p>
+<p aid:pstyle="NoIndent">When you strike an enemy with two weapons at once, add an extra 1d4 damage for your off-hand strike.</p>
 <h3 aid:pstyle="MoveName">Camouflage</h3>
 <p aid:pstyle="NoIndent">When you're still in natural surroundings, enemies never spot you until you make a movement.</p>
 <h3 aid:pstyle="MoveName">Man's Best Friend'</h3>
@@ -95,7 +95,7 @@
 <h3 aid:pstyle="MoveName">Quarry</h3>
 <p aid:pstyle="NoIndent">You take +1 forward against someone whose trail you follow.</p>
 <h3 aid:pstyle="MoveName">Well Trained</h3>
-<p aid:pstyle="NoIndent">Choose another training for your animal companion.</p>
+<p aid:pstyle="NoIndent">Choose an additional training for your animal companion.</p>
 <h3 aid:pstyle="MoveName">God Amidst the Wastes</h3>
 <p aid:pstyle="NoIndent">You gain the Commune and Cast a Spell Cleric move. Your level for the purposes of that move is 1 + the levels you've gained since you took God Amidst the Wastes.</p>
 <h3 aid:pstyle="MoveName">Follow Me</h3>
@@ -109,9 +109,9 @@
 <h3 aid:pstyle="MoveName">Hunter's Prey</h3>
 <p aid:pstyle="Requirement">Replaces: Familiar Prey</p>
 <p aid:pstyle="NoIndent">When you Spout Lore about a monster you use Wis instead of Int. On a 12+ you get to ask the GM any one question about the subject.</p>
-<h3 aid:pstyle="MoveName">Dual Wield</h3>
+<h3 aid:pstyle="MoveName">Dual Strike</h3>
 <p aid:pstyle="Requirement">Replaces: Dual Strike</p>
-<p aid:pstyle="NoIndent">When strike an enemy with two weapons at once, add an extra 1d8 damage for your off-hand strike.</p>
+<p aid:pstyle="NoIndent">When you strike an enemy with two weapons at once, add an extra 1d8 damage for your off-hand strike.</p>
 <h3 aid:pstyle="MoveName">Unescapable Quarry</h3>
 <p aid:pstyle="Requirement">Replaces: Quarry</p>
 <p aid:pstyle="NoIndent">You take +1 forward against someone whose trail you follow. You cannot be surprised, ambushed, or otherwise at a disadvantage against someone whose trail you follow.</p>
